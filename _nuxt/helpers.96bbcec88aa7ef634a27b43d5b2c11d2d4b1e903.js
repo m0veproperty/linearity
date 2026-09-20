@@ -1,0 +1,1 @@
+let t=16;typeof window<"u"&&(t=parseFloat(getComputedStyle(document.documentElement).fontSize)||16,window.addEventListener("resize",()=>{t=parseFloat(getComputedStyle(document.documentElement).fontSize)||16}));const o=(e,n)=>typeof window>"u"?e:n==="rem"?e/16*t:e;export{o as c};

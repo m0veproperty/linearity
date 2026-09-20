@@ -1,0 +1,1 @@
+import{aj as t,ag as i}from"./entry.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";let o=Symbol("Context");var l=(n=>(n[n.Open=1]="Open",n[n.Closed=2]="Closed",n[n.Closing=4]="Closing",n[n.Opening=8]="Opening",n))(l||{});function s(){return r()!==null}function r(){return t(o,null)}function u(n){i(o,n)}export{l as i,r as l,s,u as t};

@@ -1,0 +1,1 @@
+import{_ as n}from"./MarkdownRendererNuxt.vue_vue_type_script_setup_true_lang.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";import{e as s,i as a,ad as c,o as t}from"./entry.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";const d=s({__name:"MarkdownRenderer",props:{src:{}},setup(r){return(e,_)=>{const o=n;return t(),a(o,c(e.$attrs,{src:r.src}),null,16,["src"])}}});export{d as _};

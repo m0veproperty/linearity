@@ -1,0 +1,1 @@
+import{n as a}from"./entry.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";const c=()=>{const e=a(!1),o=a(null);return{handleHover:(r,l,n)=>{e.value=!0,o.value=l,r||n.currentTarget.click()},handleLeave:()=>{!e.value&&o.value&&o.value()},popoverHover:e}};export{c as u};

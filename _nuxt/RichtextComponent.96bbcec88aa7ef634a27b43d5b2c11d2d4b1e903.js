@@ -1,0 +1,1 @@
+import{_ as o}from"./RichtextComponent.vue_vue_type_style_index_0_lang.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";import"./MarkdownComponentClient.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";import"./entry.96bbcec88aa7ef634a27b43d5b2c11d2d4b1e903.js";export{o as default};
